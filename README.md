@@ -6,4 +6,4 @@ This repository contains solution suggestions for the weekly puzzle column [The 
 
 ## Solutions
 
-[March 29th, 2019](https://fivethirtyeight.com/features/can-you-win-a-spelling-bee-if-you-know-99-percent-of-the-words/): Can You Win A Spelling Bee If You Know 99 Percent Of The Words? [Proposed solution]().
+[March 29th, 2019](https://fivethirtyeight.com/features/can-you-win-a-spelling-bee-if-you-know-99-percent-of-the-words/): Can You Win A Spelling Bee If You Know 99 Percent Of The Words? [Proposed solution](https://github.com/smu095/theriddler/blob/master/29march2019.ipynb).
